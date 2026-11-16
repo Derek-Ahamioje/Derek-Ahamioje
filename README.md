@@ -1,10 +1,10 @@
 # Hi, I'm Derek Ahamioje 👋
 
-## Data Scientist | Research Analytics Specialist | Published Researcher
+## Data Scientist | Research Analytics Specialist | Machine Learning Practitioner | Published Researcher
 
 I develop machine learning, research analytics, and business intelligence solutions using Python, Power BI, Tableau, and Azure Machine Learning.
 
-My work focuses on transforming complex data into actionable insights through predictive analytics, machine learning, natural language processing, topic modelling, and data visualisation.
+My work focuses on transforming complex data into actionable insights through predictive analytics, natural language processing, topic modelling, and data visualisation.
 
 ---
 
@@ -26,16 +26,25 @@ My work focuses on transforming complex data into actionable insights through pr
 ## Featured Projects
 
 ### Research Impact Analysis in Africa
-Machine learning framework for evaluating research productivity, citation impact, and collaboration patterns across Africa using DBSCAN clustering and LDA topic modelling.
+Developed a machine learning framework for evaluating research productivity, citation impact, and collaboration patterns across Africa using DBSCAN clustering and LDA topic modelling.
 
 ### Wine Quality Prediction
-Predictive machine learning project using regression and classification models, including XGBoost, SVM, and feature engineering techniques.
+Built predictive machine learning models to evaluate wine quality using regression and classification techniques, including XGBoost, Decision Trees, and Support Vector Machines.
 
 ### Nigeria Telecom Social Media Sentiment Analysis
-Social media analytics project using Twitter data, Tableau dashboards, NLP, sentiment analysis, and LDA topic modelling to evaluate customer engagement.
+Applied Twitter analytics, NLP, sentiment analysis, Tableau dashboards, and LDA topic modelling to assess customer engagement and social media health across major Nigerian telecommunications providers.
 
 ---
+## Current Focus
 
+- Machine Learning and Predictive Analytics
+- Research Analytics and Scientometrics
+- Natural Language Processing (NLP)
+- Business Intelligence and Data Visualisation
+- Azure Machine Learning
+- Data-Driven Decision Support Systems
+
+---
 ## Technical Skills
 
 ### Programming & Analytics
@@ -73,10 +82,11 @@ Social media analytics project using Twitter data, Tableau dashboards, NLP, sent
 
 ## Publications
 
+Selected peer-reviewed publications include:
+
 - The Synergetic State of Research Output in Sub-Saharan Africa
 - Antibiogramic Efficacy of Cymbopogon citratus, Ocimum gratissimum and Kalanchoe pinnata Extracts on Colistin-Resistant Gram-negative Bacteria
-- Additional peer-reviewed publications in public health, biotechnology, and research analytics
-
+- Research contributions spanning public health, biotechnology, scientometrics, and research analytics
 ---
 
 ## Connect With Me
@@ -86,6 +96,3 @@ Social media analytics project using Twitter data, Tableau dashboards, NLP, sent
 
 ---
 
-### Current Focus
-
-Building machine learning, research analytics, and business intelligence solutions that support data-driven decision-making across academia, healthcare, and industry.
